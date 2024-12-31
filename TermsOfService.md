@@ -1,7 +1,7 @@
 ## Terms of Service (TOS)
 Last Updated: 10/13/2024 (MM/DD/YYYY)
 
-These Terms of Use govern your use of the Element Discord application (“Element”) provided by lolorangelol & worldtoview. By accessing or using Element, you agree to be bound by these Terms of Use. If you do not agree with any part of these terms, you may not use Element.
+These Terms of Use govern your use of the Element Discord application (“Element”) provided by lolorangelol & gatewayconnection. By accessing or using Element, you agree to be bound by these Terms of Use. If you do not agree with any part of these terms, you may not use Element.
 
 ### Conditions:
 
