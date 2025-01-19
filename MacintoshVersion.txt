@@ -1,8 +1,8 @@
 {
   "Platform": "Macintosh",
   "Versions": {
-    "Software": "2.4.0",
+    "Software": "3.0.0",
     "Roblox": "version-080ad6451df24461"
   },
-  "Changelog": "New items",
+  "Changelog": "Fuck you focat",
 }
