@@ -1,8 +1,18 @@
 {
   "Platform": "Macintosh",
   "Versions": {
-    "Software": "3.0.0",
+    "Software": "4.0.0",
     "Roblox": "version-080ad6451df24461"
   },
-  "Changelog": "Fuck you focat",
+  "Changelog": "
+[~] Updated for the latest Roblox version
+[+] Added third argument support to fireclickdetector (event name)
+[+] Added debug.isvalidlevel
+[~] Optimized many things in the code
+[~] Can't even count how many bugs and crashes we fixed
+I could've made a longer changelog but I don't remember everything that we changed.
+
+Information about the rewrite we are working on:
+The new module will feature a robust and user-friendly environment with a wide range of functions and perfect stability. Our current base is outdated, and many functions were not implemented as efficiently as they are in the upcoming rewrite. Additionally, the rewrite will offer an impressive UI (both external and internal) packed with advanced features tailored for scripters and normal users. Stay tuned for more updates!
+",
 }
