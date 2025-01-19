@@ -1,7 +1,7 @@
 {
   "Platform": "Macintosh",
   "Versions": {
-    "Software": "2.3.5",
+    "Software": "2.4.0",
     "Roblox": "version-080ad6451df24461"
   },
   "Changelog": "New items",
