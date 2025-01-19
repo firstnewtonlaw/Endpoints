@@ -4,5 +4,5 @@
     "Software": "4.0.0",
     "Roblox": "version-080ad6451df24461"
   },
-  "Changelog": "[~] Updated for the latest Roblox version\n[+] Added third argument support to fireclickdetector (event name)\n[+] Added debug.isvalidlevel\n[~] Optimized many things in the code\n[~] Can't even count how many bugs and crashes we fixed",
+  "Changelog": "[+] Added third argument support to fireclickdetector (event name)\n[+] Added debug.isvalidlevel\n[~] Optimized many things in the code",
 }
