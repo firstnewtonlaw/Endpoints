@@ -1,8 +1,8 @@
 {
   "Platform": "Windows",
   "Versions": {
-    "Software": "1.0.7",
-    "Roblox": "version-302fe31805ab4542"
+    "Software": "1.0.10",
+    "Roblox": "version-67acd0f240534e7b"
   },
-  "Changelog": "updated for latest roblox version",
+  "Changelog": "updated for latest roblox version-67acd0f240534e7b",
 }
