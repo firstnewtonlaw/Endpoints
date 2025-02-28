@@ -1,8 +1,8 @@
 {
   "Platform": "Macintosh",
   "Versions": {
-    "Software": "4.1.3",
-    "Roblox": "version-bd016be4fe744ff8"
+    "Software": "4.1.4",
+    "Roblox": "version-edff3ebb0ca74edf"
   },
   "Changelog": "macccc",
 }
