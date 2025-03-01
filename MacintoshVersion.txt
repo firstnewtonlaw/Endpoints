@@ -1,7 +1,7 @@
 {
   "Platform": "Macintosh",
   "Versions": {
-    "Software": "4.1.335",
+    "Software": "4.1.xz",
     "Roblox": "version-edff3ebb0ca74edf"
   },
   "Changelog": "wow",
