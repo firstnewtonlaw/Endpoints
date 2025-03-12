@@ -1,8 +1,8 @@
 {
   "Platform": "Windows",
   "Versions": {
-    "Software": "3.0.1",
-    "Roblox": "version-2b67309334b54dab"
+    "Software": "3.0.3",
+    "Roblox": "version-8794089906d54893"
   },
   "Changelog": "preupdate",
 }
