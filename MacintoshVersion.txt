@@ -1,8 +1,8 @@
 {
   "Platform": "Macintosh",
   "Versions": {
-    "Software": "5.0.1",
+    "Software": "6.6.6.6.6.6",
     "Roblox": "version-81aaf75112194adc"
   },
-  "Changelog": "pre updated to latest deploy",
+  "Changelog": "sigma exploit",
 }
