@@ -1,8 +1,8 @@
 {
   "Platform": "Windows",
   "Versions": {
-    "Software": "RELEASE-1.2.3.4",
+    "Software": "RELEASE-1.2.3.4.5",
     "Roblox": "version-2b67309334b54dab"
   },
-  "Changelog": "added herobrine",
+  "Changelog": "patched every detection",
 }
