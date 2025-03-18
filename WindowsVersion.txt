@@ -1,7 +1,7 @@
 {
   "Platform": "Windows",
   "Versions": {
-    "Software": "6.5.1",
+    "Software": "6.5.3.1",
     "Roblox": "version-c14031b5b28d47e5"
   },
   "Changelog": "pre updated to latest deployment",
