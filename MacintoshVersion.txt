@@ -1,8 +1,7 @@
 {
   "Platform": "Macintosh",
   "Versions": {
-    "Software": "6.3",
-    "Roblox": "version-81aaf75112194adc"
-  },
-  "Changelog": "fixed detections",
+    "Software": "6.9.1",
+    "Roblox": "version-0b638b32e4ac485c"
+  }
 }
