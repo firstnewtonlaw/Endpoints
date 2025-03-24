@@ -1,8 +1,0 @@
-{
-  "Platform": "Windows",
-  "Versions": {
-    "Software": "6.9.6.9",
-    "Roblox": "version-bef193a8f3d14d3c"
-  },
-  "Changelog": "added herobrine",
-}
