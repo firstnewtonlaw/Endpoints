@@ -1,7 +1,0 @@
-{
-  "Platform": "Macintosh",
-  "Versions": {
-    "Software": "6.9.1",
-    "Roblox": "version-0b638b32e4ac485c"
-  }
-}
