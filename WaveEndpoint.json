@@ -1,8 +1,8 @@
 {
   "Platform": "Windows",
   "Versions": {
-    "Software": "2.9.1d",
+    "Software": "2.9.2",
     "Roblox": "version-347f4ac346734391"
   },
-  "Changelog": "Preupdated to the next Roblox version. Ocean will not go down upon release of new version.",
+  "Changelog": "Preupdated to the next Roblox version.",
 }
