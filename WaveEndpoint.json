@@ -1,8 +1,8 @@
 {
   "Platform": "Windows",
   "Versions": {
-    "Software": "2.9.1c",
-    "Roblox": "version-5a6b6797f4e04078"
+    "Software": "2.9.1d",
+    "Roblox": "version-347f4ac346734391"
   },
-  "Changelog": "# Fixes\n  - getconnections (not sure how long it’s been broken)\n  - getrunningscripts now properly removes duplicates\n\n✨ Additions\n  - Support for MouseHoverEnter and MouseHoverLeave events on ClickDetectors\n  - crypt.hash now supports: sha1, sha256, sha512, md5\n      - (sha384 has always been the default until now)",
+  "Changelog": "Preupdated to the next Roblox version. Ocean will not go down upon release of new version.",
 }
