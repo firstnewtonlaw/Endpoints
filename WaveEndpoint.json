@@ -1,15 +1,8 @@
 {
   "Platform": "Windows",
   "Versions": {
-    "Software": "2.9.2c",
-    "Roblox": "version-c2c9efad42eb44e5"
+    "Software": "2.9.2d",
+    "Roblox": "version-b83d92f2144a48e2"
   },
-  "Changelog": "
-  # Improvements & Additions
-    - Improved metatable hooks
-    - Added `newlclosure`
-    - Added `filtergc`
-    - `replicatesignal` now correctly supports: int64, float, int
-    - `getscriptbytecode` and `getscriptclosure` now don’t throw an error if decompression fails
-  ",
+  "Changelog": "Forgot to update endpoint",
 }
