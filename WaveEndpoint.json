@@ -2,7 +2,7 @@
   "Platform": "Windows",
   "Versions": {
     "Software": "2.9.3",
-    "Roblox": "version-ff05edc617954c5b"
+    "Roblox": "version-3c1b78b767674c66"
   },
-  "Changelog": "Updated to skibidi version-ff05edc617954c5b\n📌 Fast Flags — Bigblox has stated they will soon prevent modification of Fast Flags. Because of this, we have removed any that were being set in the init scripts.\n\n📌 The Hunt Event — Bigblox publicly claimed to be targeting users running modified clients during the event. We believe this refers to modified Android APKs and Linux versions, not directly to Bloxstrap. However, as a precaution:\n➡️ We will soon make Bloxstrap optional.\n➡️ If you choose not to use Bloxstrap, Bigblox may change your update channel to beta, which we do NOT support. Ocean only updates for production/live builds.\n\n⚠️ If this happens, Ocean may stop working for you.\n🔐 Security Notice — We are continuing to make changes to protect you, but security also comes down to your decisions.\n\n`setfpscap` fixed: was incorrectly configured when it was moved from Lua to C",
+  "Changelog": "Updated for version-3c1b78b767674c66",
 }
