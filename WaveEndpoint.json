@@ -1,8 +1,7 @@
 {
   "Platform": "Windows",
   "Versions": {
-    "Software": "inject",
+    "Software": "wow",
     "Roblox": "version-8e6e698468a04d3f"
-  },
-  "Changelog": "wow",
+  }
 }
