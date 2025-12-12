@@ -1,8 +1,8 @@
 {
   "Platform": "Windows",
   "Versions": {
-    "Software": "six seven",
-    "Roblox": "version-5aed1822f52c4b03"
+    "Software": "6.7",
+    "Roblox": "version-eaebe135b3ec446b"
   },
-  "Changelog": "Improved emulator, now fully under the radar\n+++ Undetected forever and always, untouchable."
+  "Changelog": "Patched Hyperion from attempting to touch us. #LONGLIVESIGMASPLOIT"
 }
